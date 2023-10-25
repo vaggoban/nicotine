@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.gather,.gather_in{
+  background: url("./\(page\)/img/one.jpg");
+  background-position: center;
+  background-size: 100% 100%;
+}
+
+.active{
+  border: 5px solid red;
+}
+
+
+
